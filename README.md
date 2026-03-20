@@ -2,6 +2,8 @@
 
 10+ free APIs that need no API key, no signup, no authentication.
 
+> **Need custom data extraction?** I'll scrape any website for $20. Email **Spinov001@gmail.com** or [see pricing](https://spinov001-art.github.io).
+
 | API | Data | URL |
 |-----|------|-----|
 | **CoinGecko** | Crypto prices, 10K+ coins | `api.coingecko.com/api/v3/` |

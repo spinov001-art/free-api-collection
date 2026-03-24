@@ -111,6 +111,9 @@ console.log(`Express latest: ${pkg["dist-tags"].latest}`);
 - [awesome-web-scraping-2026](https://github.com/spinov001-art/awesome-web-scraping-2026) — 77 free web scraping tools
 - [youtube-rag-knowledge-base](https://github.com/spinov001-art/youtube-rag-knowledge-base) — AI knowledge base from YouTube
 - [YouTube Innertube API Tutorial](https://dev.to/0012303/youtube-has-a-hidden-api-that-needs-no-api-key-here-is-how-to-use-it-2n9e)
+- [API Scraping Templates](https://github.com/spinov001-art/api-scraping-templates) — 20+ Python templates for these APIs
+- [Price Monitoring with Free APIs](https://dev.to/0012303/i-built-a-price-monitoring-system-in-30-minutes-heres-the-stack-all-free-apis-1cg6)
+- [ML Research Pipeline](https://dev.to/0012303/i-replaced-a-200month-ai-training-data-pipeline-with-50-lines-of-python-27f2) — arXiv + Crossref
 
 ## Contributing
 

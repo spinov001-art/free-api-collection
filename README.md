@@ -4,7 +4,7 @@ A curated list of **free, public APIs that require no authentication** — no AP
 
 Perfect for prototyping, learning, hackathons, and building MVPs without worrying about rate limits or billing.
 
-> **Need custom data extraction?** I build web scrapers and data pipelines. [See my work](https://github.com/spinov001-art/awesome-web-scraping-2026) or [hire me](https://spinov001-art.github.io).
+> **Need custom data extraction?** I build web scrapers and data pipelines. [See my 265 repos](https://github.com/spinov001-art/awesome-web-scraping-2026) or email **spinov001@gmail.com** — free quote in 2 hours.
 
 ## Data & Finance
 
